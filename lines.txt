@@ -1,0 +1,20 @@
+01 Beyonce.
+02 Macklemore.
+03 David Bowie.
+04 Freddie Mercury.
+05 Taylor Swift.
+06 Alicia Keys.
+07 Michael Jackson.
+08 Whitney Houston.
+09 Mariah Carey.
+10 Justin Bieber.
+11 The Beetles.
+12 Backstreet Boys.
+13 Pussycat Dolls.
+14 Enya.
+15 Elvis Presley.
+16 Lady Gaga.
+17 Christina Aguilera.
+18 Marvin Gaye.
+19 Bob Dylan.
+20 Britney Spears.
